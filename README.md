@@ -3,7 +3,7 @@
 > This project demonstrates how to control an LED using a photoresistor (LDR).  
 > The LED turns **on** when the surrounding light level is low (dark environment),  
 > and turns **off** when the light level is high.
-> It has been **simulated in TinkerCAD**, **designed in Fritzing**, and **tested in a physical environment**.
+> It has been **simulated in Tinkercad**, **designed in Fritzing**, and **tested in a physical environment**.
 
 ---
 
