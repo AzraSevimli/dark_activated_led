@@ -19,7 +19,7 @@
 
 ---
 
-🖥️ TinkerCAD Simulation
+🖥️ Tinkercad Simulation
 
-You can test the **Common Cathode version** of this project on TinkerCAD:
-🔗 **[Open TinkerCAD Simulation](https://www.tinkercad.com/things/fJvZfx5ce8m-darkactivatedled?sharecode=FK4dZqFhEZZfoIkIwBYnMxvdYpT2BEiYfa1hJcld--w)**
+You can test the of this project on Tinkercad:
+🔗 **[Open Tinkercad Simulation](https://www.tinkercad.com/things/fJvZfx5ce8m-darkactivatedled?sharecode=FK4dZqFhEZZfoIkIwBYnMxvdYpT2BEiYfa1hJcld--w)**
